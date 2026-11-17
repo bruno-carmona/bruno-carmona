@@ -1,4 +1,4 @@
-<h2 align="center">Hola👋, soy </h2>
+<h2 align="center">Hola👋, soy Bruno </h2>
 
 <p align="center">
   <img src="banner.png" alt="Bruno Carmona — Ciberseguridad" width="100%">
