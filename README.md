@@ -1,16 +1,15 @@
-## Hi there 👋
+<h2 align="center">Hola👋, soy </h2>
 
-<!--
-**bruno-carmona/bruno-carmona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="banner.png" alt="Bruno Carmona — Ciberseguridad" width="100%">
+</p>
 
-Here are some ideas to get you started:
+## 👤 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudiante de Ingeniería en Computación
+- 🛡️ Blue Team | Red Team ⚔️
+- 📊 SIEM, análisis de logs y respuesta a incidentes
+- 🌐 Pentesting web y de redes
+
+---
+
